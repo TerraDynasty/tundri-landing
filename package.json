@@ -5,9 +5,6 @@
     "start": "react-scripts start",
     "build": "react-scripts build"
   },
-  "devDependencies": {
-    "@remix-run/dev": "^2.15.3"
-  },
   "dependencies": {
     "isbot": "^5.1.23"
   }
