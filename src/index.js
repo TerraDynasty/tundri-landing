@@ -1,0 +1,1 @@
+console.log("Tundri project initialized.");
