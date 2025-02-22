@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/main.67bec173.js","mappings":"AAAAA,QAAQC,IAAI","sources":["index.js"],"sourcesContent":["console.log(\"Tundri project initialized.\");"],"names":["console","log"],"sourceRoot":""}
